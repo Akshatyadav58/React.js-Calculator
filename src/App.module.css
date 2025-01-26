@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin-top: 20px; /* Top margin for spacing */
+  }
+  
+  .header {
+    font-size: 2rem; /* Large text size for the title */
+    font-weight: bold; /* Bold text */
+    margin-bottom: 20px; /* Space between header and calculator */
+    color: #ffffff; /* White text */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Subtle text shadow */
+  }
+  
+  .calculator {
+    border: 2px solid #444;
+    background-color: #f5f5f5;
+    width: 250px;
+    border-radius: 12px;
+    padding: 15px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+    margin: 0 auto;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #87CEFA, #4682B4); /* Gradient */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  

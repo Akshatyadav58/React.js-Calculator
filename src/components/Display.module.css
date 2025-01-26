@@ -1,0 +1,13 @@
+.display {
+    margin: 10px auto;
+    width: 90%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right; /* Align text to the right for a calculator display */
+    padding: 10px; /* Add padding for better readability */
+    border: 2px solid #90caf9; /* Blue border to match the theme */
+    border-radius: 8px; /* Rounded corners for consistency */
+    background-color: #e3f2fd; /* Light blue background for the display */
+    color: #000; /* Black text for readability */
+    box-shadow: inset 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle inset shadow */
+}
