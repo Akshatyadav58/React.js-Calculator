@@ -1,2 +1,14 @@
-# React.js-Calculator
-This is a React.js calculator app with modular components for display and buttons. It supports basic arithmetic, displays expressions like "9+9" in real-time, and updates results dynamically. The UI features a clean, centered design with CSS styling and a gradient background.
+**React Calculator App :-**
+A simple calculator built with React.js, supporting basic arithmetic operations like addition, subtraction, multiplication, and division. The app displays real-time expressions and calculates results dynamically.
+
+**Features :-**
+Basic arithmetic operations: +, -, *, /
+Real-time expression display (e.g., "9+9")
+Clear input with the "C" button
+Displays the result when the "=" button is pressed
+Simple, user-friendly interface
+
+
+**Technologies Used :-**
+React.js: For building the user interface and managing state.
+CSS: For styling and layout of the app
